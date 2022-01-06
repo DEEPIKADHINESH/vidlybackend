@@ -1,0 +1,218 @@
+{"message":"couldnot get genres","stack":"Error: couldnot get genres\n    at F:\\vidlybackend\\genres.js\\routes\\genre.js:16:9\n    at newFn (F:\\vidlybackend\\genres.js\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (F:\\vidlybackend\\genres.js\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (F:\\vidlybackend\\genres.js\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (F:\\vidlybackend\\genres.js\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at newFn (F:\\vidlybackend\\genres.js\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (F:\\vidlybackend\\genres.js\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at F:\\vidlybackend\\genres.js\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (F:\\vidlybackend\\genres.js\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (F:\\vidlybackend\\genres.js\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (F:\\vidlybackend\\genres.js\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (F:\\vidlybackend\\genres.js\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at newFn (F:\\vidlybackend\\genres.js\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (F:\\vidlybackend\\genres.js\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (F:\\vidlybackend\\genres.js\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at F:\\vidlybackend\\genres.js\\node_modules\\express\\lib\\router\\index.js:284:7","level":"error","timestamp":"2021-12-20T08:34:26.844Z"}
+{/*this file is created automaticaly by winston when error is thrown*/}{"message":"couldnot get genres","stack":"Error: couldnot get genres\n    at F:\\vidlybackend\\genres.js\\routes\\genre.js:16:9\n    at newFn (F:\\vidlybackend\\genres.js\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (F:\\vidlybackend\\genres.js\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (F:\\vidlybackend\\genres.js\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (F:\\vidlybackend\\genres.js\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at newFn (F:\\vidlybackend\\genres.js\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (F:\\vidlybackend\\genres.js\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at F:\\vidlybackend\\genres.js\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (F:\\vidlybackend\\genres.js\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (F:\\vidlybackend\\genres.js\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (F:\\vidlybackend\\genres.js\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (F:\\vidlybackend\\genres.js\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at newFn (F:\\vidlybackend\\genres.js\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (F:\\vidlybackend\\genres.js\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (F:\\vidlybackend\\genres.js\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at F:\\vidlybackend\\genres.js\\node_modules\\express\\lib\\router\\index.js:284:7","level":"error","timestamp":"2021-12-20T09:04:18.663Z"}
+{"message":"wont allow to connect","stack":"Error: wont allow to connect\n    at Object.<anonymous> (F:\\vidlybackend\\genres.js\\index.js:29:7)\n    at Module._compile (node:internal/modules/cjs/loader:1109:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1138:10)\n    at Module.load (node:internal/modules/cjs/loader:989:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:829:14)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)\n    at node:internal/main/run_main_module:17:47","level":"error","timestamp":"2021-12-20T09:08:26.766Z"}
+{"message":"couldnot get genres","stack":"Error: couldnot get genres\n    at F:\\vidlybackend\\genres.js\\routes\\genre.js:16:9\n    at newFn (F:\\vidlybackend\\genres.js\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (F:\\vidlybackend\\genres.js\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (F:\\vidlybackend\\genres.js\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (F:\\vidlybackend\\genres.js\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at newFn (F:\\vidlybackend\\genres.js\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (F:\\vidlybackend\\genres.js\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at F:\\vidlybackend\\genres.js\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (F:\\vidlybackend\\genres.js\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (F:\\vidlybackend\\genres.js\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (F:\\vidlybackend\\genres.js\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (F:\\vidlybackend\\genres.js\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at newFn (F:\\vidlybackend\\genres.js\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (F:\\vidlybackend\\genres.js\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (F:\\vidlybackend\\genres.js\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at F:\\vidlybackend\\genres.js\\node_modules\\express\\lib\\router\\index.js:284:7","level":"error","timestamp":"2021-12-20T09:09:19.055Z"}
+{"message":"couldnot get genres","stack":"Error: couldnot get genres\n    at F:\\vidlybackend\\genres.js\\routes\\genre.js:16:9\n    at newFn (F:\\vidlybackend\\genres.js\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (F:\\vidlybackend\\genres.js\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (F:\\vidlybackend\\genres.js\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (F:\\vidlybackend\\genres.js\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at newFn (F:\\vidlybackend\\genres.js\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (F:\\vidlybackend\\genres.js\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at F:\\vidlybackend\\genres.js\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (F:\\vidlybackend\\genres.js\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (F:\\vidlybackend\\genres.js\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (F:\\vidlybackend\\genres.js\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (F:\\vidlybackend\\genres.js\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at newFn (F:\\vidlybackend\\genres.js\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (F:\\vidlybackend\\genres.js\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (F:\\vidlybackend\\genres.js\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at F:\\vidlybackend\\genres.js\\node_modules\\express\\lib\\router\\index.js:284:7","level":"error","timestamp":"2021-12-20T09:09:20.762Z"}
+{"message":"newError is not defined","stack":"ReferenceError: newError is not defined\n    at Object.<anonymous> (F:\\vidlybackend\\genres.js\\index.js:34:17)\n    at Module._compile (node:internal/modules/cjs/loader:1109:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1138:10)\n    at Module.load (node:internal/modules/cjs/loader:989:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:829:14)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)\n    at node:internal/main/run_main_module:17:47","level":"error","timestamp":"2021-12-20T09:25:49.649Z"}
+{"message":"something filed","stack":"Error: something filed\n    at Object.<anonymous> (F:\\vidlybackend\\genres.js\\index.js:34:24)\n    at Module._compile (node:internal/modules/cjs/loader:1109:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1138:10)\n    at Module.load (node:internal/modules/cjs/loader:989:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:829:14)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)\n    at node:internal/main/run_main_module:17:47","level":"error","timestamp":"2021-12-20T09:26:42.754Z"}
+{"level":"info","message":"connected to db","timestamp":"2021-12-20T13:48:11.319Z"}
+{"level":"info","message":"connected to db","timestamp":"2021-12-20T13:49:13.766Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-20T14:00:13.347Z"}
+{"level":"info","message":"connected to db","timestamp":"2021-12-20T14:00:13.431Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-20T14:06:11.406Z"}
+{"level":"info","message":"connected to db","timestamp":"2021-12-20T14:06:11.521Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-22T02:14:54.562Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-22T02:14:55.009Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-22T09:08:09.798Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-22T09:08:10.703Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-22T09:09:13.925Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-22T09:09:14.003Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-22T09:12:56.224Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-22T09:12:56.321Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-22T09:16:06.856Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-22T09:16:06.963Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-22T09:22:53.751Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-22T09:22:53.849Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-22T09:25:01.819Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-22T09:26:02.488Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-22T09:26:52.333Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-22T09:26:52.415Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-22T11:54:15.463Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-22T11:54:15.588Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-22T12:18:06.859Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-22T12:18:06.942Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-22T12:18:54.707Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-22T12:18:54.804Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-22T12:20:13.039Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-22T12:20:13.231Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-22T12:24:04.407Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-22T12:24:04.558Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-22T12:29:44.342Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-22T12:29:44.493Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-22T12:43:22.290Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-22T12:43:22.546Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-22T12:44:21.759Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-22T12:44:21.885Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-22T13:10:40.668Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-22T13:10:40.773Z"}
+{"message":"Genre validation failed: name: Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (30).","errors":{"name":{"message":"Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (30).","name":"ValidatorError","properties":{"message":"Path `{PATH}` (`{VALUE}`) is longer than the maximum allowed length (30).","type":"maxlength","maxlength":30,"path":"name","value":"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"},"kind":"maxlength","path":"name","value":"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa","$isValidatorError":true}},"_message":"Genre validation failed","stack":"ValidationError: Genre validation failed: name: Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (30).\n    at new ValidationError (F:\\vidlybackend\\genres.js\\node_modules\\mongoose\\lib\\error\\validation.js:27:11)\n    at model.Object.<anonymous>.Document.invalidate (F:\\vidlybackend\\genres.js\\node_modules\\mongoose\\lib\\document.js:1656:32)\n    at F:\\vidlybackend\\genres.js\\node_modules\\mongoose\\lib\\document.js:1528:17\n    at Immediate.<anonymous> (F:\\vidlybackend\\genres.js\\node_modules\\mongoose\\lib\\schematype.js:785:9)\n    at processImmediate (node:internal/timers:464:21)","name":"ValidationError","level":"error","timestamp":"2021-12-22T13:10:41.610Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-22T13:20:05.677Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-22T13:20:05.782Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-22T13:30:59.236Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-22T13:30:59.322Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-22T13:32:17.985Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-22T13:32:18.094Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-22T13:33:18.694Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-22T13:33:18.789Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-23T00:43:53.438Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-23T00:43:53.993Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-23T02:47:55.314Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-23T02:47:56.266Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-23T03:14:59.798Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-23T03:14:59.782Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-23T03:14:59.969Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-23T03:16:20.853Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-23T03:16:21.693Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-23T03:16:21.773Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-23T03:19:38.882Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-23T03:19:39.820Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-23T03:19:39.892Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-23T03:39:01.047Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-23T03:39:01.138Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-23T03:39:02.119Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-23T03:40:11.888Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-23T03:40:11.868Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-23T03:40:12.368Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-23T03:42:23.649Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-23T03:42:23.622Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-23T03:42:24.007Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-23T03:54:32.294Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-23T03:54:32.276Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-23T03:54:32.521Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-23T03:54:32.566Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-23T03:56:53.892Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-23T03:56:54.028Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-23T03:56:55.389Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-23T03:56:55.607Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-23T03:59:15.180Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-23T03:59:15.264Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-23T04:02:14.427Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-23T04:02:14.548Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-23T04:02:15.401Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-23T04:02:15.525Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-23T04:06:22.956Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-23T04:06:23.052Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-23T04:06:23.035Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-23T04:06:23.205Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-23T04:18:54.183Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-23T04:18:54.180Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-23T04:18:54.288Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-23T04:18:54.352Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-23T04:26:41.716Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-23T04:26:41.722Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-23T04:26:41.814Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-23T04:26:41.887Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-23T04:31:35.974Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-23T04:31:36.072Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-23T04:31:36.963Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-23T04:31:37.079Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-23T04:32:13.378Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-23T04:32:13.329Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-23T04:32:13.508Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-23T04:32:13.572Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-23T04:54:37.135Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-23T04:54:37.147Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-23T04:54:37.364Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-23T04:54:37.381Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-23T04:56:58.625Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-23T04:56:58.857Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-23T04:57:00.089Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-23T04:57:00.172Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-23T04:58:01.172Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-23T04:58:01.391Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-23T04:58:02.474Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-23T04:58:02.567Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-23T04:59:04.773Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-23T04:59:04.954Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-23T04:59:05.834Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-23T04:59:05.918Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-23T05:00:47.236Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-23T05:00:47.414Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-23T05:00:47.646Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-23T05:00:47.739Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-23T05:02:57.676Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-23T05:02:57.936Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-23T05:02:59.106Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-23T05:02:59.196Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-23T05:16:02.179Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-23T05:16:02.310Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-23T05:16:02.367Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-23T05:16:02.441Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-23T05:16:59.199Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-23T05:16:59.452Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-23T05:16:59.377Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-23T05:16:59.545Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-23T05:19:06.482Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-23T05:19:06.535Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-23T05:19:06.649Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-23T05:19:06.662Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-23T05:27:44.820Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-23T05:27:45.238Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-23T05:34:29.113Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-23T05:34:29.547Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-23T05:34:29.554Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-23T05:34:30.074Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-23T05:37:32.649Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-23T05:37:32.914Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-23T05:37:33.090Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-23T05:37:33.413Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-23T05:38:20.337Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-23T05:38:20.439Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-23T05:38:21.300Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-23T05:38:21.414Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-23T07:01:15.997Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-23T07:01:16.360Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-23T07:02:11.533Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-23T07:02:11.664Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-23T07:03:18.745Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-23T07:03:18.879Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-23T07:14:32.193Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-23T07:14:32.363Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-23T07:14:33.523Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-23T07:14:33.604Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-23T07:15:24.423Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-23T07:15:24.578Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-23T07:15:25.273Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-23T07:15:25.353Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-23T07:18:22.229Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-23T07:18:22.391Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-23T07:18:23.200Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-23T07:18:23.280Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-23T11:37:56.117Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-23T11:37:56.649Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-23T11:42:32.290Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-23T11:42:32.481Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-23T11:42:33.883Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-23T11:42:33.991Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-23T11:45:53.357Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-23T11:45:53.503Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-23T11:46:55.040Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-23T11:46:55.213Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-23T12:29:51.747Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-23T12:29:52.185Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-23T12:30:47.053Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-23T12:30:47.201Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-23T12:30:48.441Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-23T12:30:48.522Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-23T12:33:36.144Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-23T12:33:36.291Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2021-12-23T12:33:37.201Z"}
+{"level":"info","message":"connected to db ","timestamp":"2021-12-23T12:33:37.282Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2022-01-05T08:07:33.580Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2022-01-05T08:07:34.134Z"}
+{"level":"info","message":"connected to db ","timestamp":"2022-01-05T08:07:34.467Z"}
+{"level":"info","message":"connected to db ","timestamp":"2022-01-05T08:07:35.444Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2022-01-05T08:09:53.784Z"}
+{"level":"info","message":"connected to db ","timestamp":"2022-01-05T08:09:54.030Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2022-01-05T08:09:54.044Z"}
+{"level":"info","message":"connected to db ","timestamp":"2022-01-05T08:09:54.215Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2022-01-05T08:30:17.256Z"}
+{"level":"info","message":"connected to db ","timestamp":"2022-01-05T08:30:17.349Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2022-01-05T08:31:53.133Z"}
+{"level":"info","message":"connected to db ","timestamp":"2022-01-05T08:31:53.208Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2022-01-05T08:49:02.888Z"}
+{"level":"info","message":"connected to db ","timestamp":"2022-01-05T08:49:03.284Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2022-01-05T10:04:07.371Z"}
+{"level":"info","message":"connected to db ","timestamp":"2022-01-05T10:04:08.086Z"}
+{"level":"info","message":"server started at port 5000","timestamp":"2022-01-05T10:05:59.160Z"}
+{"level":"info","message":"connected to db ","timestamp":"2022-01-05T10:05:59.291Z"}
